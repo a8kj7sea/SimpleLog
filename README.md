@@ -1,4 +1,6 @@
-# SimpleLog
+
+
+# SimpleLog <sub><sup>[![](https://jitpack.io/v/a8kj7sea/SimpleLog.svg)](https://jitpack.io/#a8kj7sea/SimpleLog)</sub></sup>
 
 A flexible and extensible logging system for Java applications.  
 Supports multiple log destinations, context-based logging, ANSI-colored console output, file persistence, exception stack traces, and a fluent builder API.
