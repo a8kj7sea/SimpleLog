@@ -16,6 +16,10 @@ Supports multiple log destinations, context-based logging, ANSI-colored console 
 - Toggleable debug-level logging  
 - Lightweight and easy to integrate  
 
+
+<img width="1300" height="450" alt="image" src="https://github.com/user-attachments/assets/78101417-30b5-47af-8d7e-e0318d097044" />
+
+
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
